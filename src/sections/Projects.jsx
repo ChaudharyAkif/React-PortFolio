@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import projectimg1 from "../assets/project1.png";
 import projectimg2 from "../assets/project2.png";
-import projectimg3 from "../assets/project3.png";
+import pro3 from "../assets/pro3.png";
 const projects = [
   {
     title: "E Commerce",
@@ -28,7 +28,7 @@ const projects = [
     description: "Real-time analytics dashboard with interactive charts and clean data flow.",
     tech: ["React", "TailwindCss", "Node.js", "Express"],
     color: "from-emerald-500 to-teal-400",
-    image: projectimg3,
+    image: pro3,
     link: "https://donate-hub-frontend.vercel.app/"
   }
 ];
