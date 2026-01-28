@@ -8,7 +8,7 @@ const projects = [
     title: "E Commerce",
     duration: "2024",
     description: "Next-gen web experience with immersive motion, modern UI, and optimized performance.",
-    tech: ["React", "NodeJs", "Tailwind", "Framer Motion","Ant Design,Supabase,,Stripe"],
+    tech: ["React", "NodeJs", "Tailwind","Framer Motion","Ant Design", "Supabase","Stripe"],
     color: "from-blue-500 to-cyan-400",
     image:projectimg1,
     link: "https://digital-bazar-u3ya.vercel.app/"
